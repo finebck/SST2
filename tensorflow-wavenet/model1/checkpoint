@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/hehao/pam/tensorflow-wavenet/model1/speech.module-119"
+all_model_checkpoint_paths: "/home/hehao/pam/tensorflow-wavenet/model1/speech.module-100"
+all_model_checkpoint_paths: "/home/hehao/pam/tensorflow-wavenet/model1/speech.module-105"
+all_model_checkpoint_paths: "/home/hehao/pam/tensorflow-wavenet/model1/speech.module-110"
+all_model_checkpoint_paths: "/home/hehao/pam/tensorflow-wavenet/model1/speech.module-115"
+all_model_checkpoint_paths: "/home/hehao/pam/tensorflow-wavenet/model1/speech.module-119"

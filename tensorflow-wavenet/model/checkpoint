@@ -1,0 +1,6 @@
+model_checkpoint_path: "speech.module-95"
+all_model_checkpoint_paths: "speech.module-75"
+all_model_checkpoint_paths: "speech.module-80"
+all_model_checkpoint_paths: "speech.module-85"
+all_model_checkpoint_paths: "speech.module-90"
+all_model_checkpoint_paths: "speech.module-95"
